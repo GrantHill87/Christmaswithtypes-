@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AGH TC SE Module 2 Variables Exercise/1.0.0": {
+        "runtime": {
+          "AGH TC SE Module 2 Variables Exercise.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AGH TC SE Module 2 Variables Exercise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
