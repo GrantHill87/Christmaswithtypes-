@@ -1,0 +1,34 @@
+AGH - Mapinfo Sample # 01
+
+//The following is a sample of my script I wrote for a coding language (Mapinfo) developed by some members of an online community designed to expand upon the maps and levels platform used to define their functionality and instruction, for an old video game called, Doom (1993).
+//I utilized this language to define and write my own code for a custom game I've been developing, using a similar engine to one developed for this older game, since the source code for the original game was released long ago.
+//The scripts I've written are in addition to the pre-existing source code, but both work very well together, as I've had to constantly debug my own code blocks, and there are other developers who have worked to expand the capacity of this coding language.
+
+//Created by A. Grant Hill
+
+/*Title of my project is called, Doomed Legends, but everything that's been written in this sample is actually for a spin-off project of my main one....
+/*Anything that doesn't make sense to you, feel free to message me, or refer to online archives associated with this coding platform.
+/*A demo version of this lesser project will eventually be released for public access, detailing a brief description of what the project consists of, and what's needed to run it.
+
+map map01 lookup "instance"
+{
+	levelnum = 1
+	Sky1 = "Sky01", 0.1
+	Skyrotate = 0.1, 0.1, 0.1
+	//MonsterFallingDamage
+	//TotalInfighting
+	//FallingDamage
+	AllowMonsterTelefrags
+}
+
+DOOMEdNums//Doesn't appear to be necessary here, when assigning DOOMEdNums -- assigning them via the DECORATE script is good enough.
+{
+//10001=SkulKing
+//10002=DLTree01
+//10003=DLTree02
+//10004=DLTree03 
+//10005=DLTree04
+//10006=DLTree05
+//10007=DLTree06
+//10008=DLTree07
+}
